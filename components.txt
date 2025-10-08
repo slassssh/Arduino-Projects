@@ -1,0 +1,20 @@
+👉Components - Transmitter:
+✅ Arduino Nano  https://amzn.to/3i24wfZ
+✅ nrf24l01+ modulehttps://amzn.to/3im5TGB
+✅ nrf adapter  https://amzn.to/3im5TGB
+✅ MPU6050 module  https://amzn.to/34HtcHy
+✅ 7-12 V DC battery (In our case lipo 2s battery) https://amzn.to/3q4SjLN
+✅ Breadboard  https://amzn.to/3KH7sL6
+✅ Double sided tape
+✅ Jumper wires  https://amzn.to/3I8fZVG
+
+👉Components - Receiver:
+✅ 4WD car kit (It has 4 TT DC gear motors with wheels)    https://amzn.to/3i1PdDW
+✅ Arduino Nano  https://amzn.to/3i24wfZ
+✅ nrf24l01+ module https://amzn.to/3im5TGB
+✅ nrf adapter  https://amzn.to/3im5TGB
+✅ L298N driver module https://amzn.to/3J98zTJ
+✅ 7-12 V DC battery (for car we will use lipo 3s battery) https://amzn.to/37gJWpQ
+✅ Breadboard  https://amzn.to/3KH7sL6
+✅ Double sided tape
+✅ Jumper wires  https://amzn.to/3I8fZVG
